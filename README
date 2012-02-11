@@ -1,0 +1,30 @@
+Elikkä tarkoitus kirjoittaa siis ihka oma voorumiräpellys.
+
+Tietokantana kokeillaan MongoDB:tä http://www.mongodb.org/
+
+Fronttina pääsääntöisesti javascriptiä: Joonakselta vinkkejä.
+Frontti keskustelee kantaan/taustajärjestelmiin Ajaxilla. 
+http://www.w3schools.com/ajax/default.asp
+
+Jetty sovelluspalvelin? http://jetty.codehaus.org/jetty/
+
+Tiedonsiirtoon käytettävä formaatti http://www.json.org/
+
+Ideana on threditön voorumi eli sisältöä kategorisoidaan
+tägeillä.
+
+Ensimmäisessä vaiheessa toteutetaan pelkkä postaaminen.
+
+Seuraavaksi kehitetään käyttäjähallinta.
+
+Kolmanneksi tägäystoiminnallisuus.
+
+Seuraavaksi...
+Näkymän muotoilu postauksien tägien mukaan. Tuksu-postauksiin
+selkeät varoitustarrat tms.!
+Valokuvien "haistelu" jolloin automaattisesti postaukset joihin
+liittyy kuvia voidaan jaotella.
+Ilmoitukset selaimen alareunaan uusista posteista / käyttäjän 
+sisäänkirjautumisesta websocketeilla.
+
+Sillälailla...
